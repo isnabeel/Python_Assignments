@@ -298,9 +298,9 @@ print_people(ismail.half_siblings())
 ismail.__dict__
 
 """ Adding list of variants to the person object """
-ismail.Add_list_of_variants(clean_variant_instant_list)
-ismail_mother.Add_list_of_variants(clean_variant_instant_list)
-ismail_father.Add_list_of_variants(clean_variant_instant_list)
+#ismail.Add_list_of_variants(clean_variant_instant_list)
+#ismail_mother.Add_list_of_variants(clean_variant_instant_list)
+#ismail_father.Add_list_of_variants(clean_variant_instant_list)
 #print(ismail.variant_instance_list_one_person) ## all variant instances with Ismail as the name
 
 ##help(Person)###
